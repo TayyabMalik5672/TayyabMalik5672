@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TayyabMalik5672.My nickname is Rock Aura.
-- 👀 I’m interested in web design, web game development and animations.
+- 👋 Hi, I’m Tayyab Malik. My nickname is Rock Aura.
+- 👀 I’m interested in frontend developing, graphics designing, & educating.
 - 🌱 I’m currently learning Angular JavaScript, and other updated info related to web development.
 - 💞️ I’m looking to collaborate with no one.
 - 📫 How to reach me by email: tayyabmalikak47@gmail.com
